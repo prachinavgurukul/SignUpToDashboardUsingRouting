@@ -1,0 +1,70 @@
+/* #dashboard_box,#signup_box{
+  width: 50vw;
+  height: 80vh;
+  border: 2px solid black;
+  margin: auto;
+}
+table{
+  width: 200px;
+  height: 30px;
+  border: 1px solid black;
+}
+h1{
+  text-align: center;
+}
+#inputs{
+  text-align: center;
+  margin-left: 50px;
+}
+#submit{
+  margin-left: 260px;
+  width: 100px;
+  height: 30px;
+} */
+
+
+/* #lable{
+  margin-left: 500px;
+} */
+
+#signupbox,#dashboard_box{
+  width: 40vw;
+  height: 90vh;
+  border: 3px solid black;
+  margin: auto;
+  box-shadow: 0px 0px 5px 5px;
+  /* background-color: gradient(red,blue,green); */
+  background-image: linear-gradient(rgba(205, 134, 63, 0.731), rgb(165, 42, 140),rgb(205, 216, 74));
+}
+h1{
+  text-align: center;
+}
+hr{
+  width: 10vw;
+  height: 2px;
+  border: 1px solid black;
+  background-color: black;
+}
+#inputs{
+  margin-left: 100px;
+}
+button{
+  margin-left: 110px;
+  width: 8vw;
+  height: 5vh;
+  border-radius: 5px;
+  background-color: rgb(52, 146, 229);
+  color: white;
+}
+#name{
+  margin-left: 80px;
+}
+#email{
+  margin-left: 84px;
+}
+#password{
+  margin-left: 54px;
+}
+#technologies{
+  margin-left: 25px;
+}
